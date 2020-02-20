@@ -37,7 +37,7 @@ The library is composed by three sub-libraries, each one implements the layer re
           `pyforms-gui <https://pyforms-gui.readthedocs.org>`_              `pyforms-web <https://pyforms-web.readthedocs.org>`_         `pyforms-terminal <https://pyforms-terminal.readthedocs.org>`_
    ================================================================= ================================================================= =================================================================
 
-These layers can be user indevidually or toggether if you install pyforms.
+These layers can be user individually or together if you install pyforms.
 
 
 .. |star| image:: /_static/imgs/start.png
